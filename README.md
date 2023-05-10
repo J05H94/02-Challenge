@@ -5,3 +5,4 @@ This is the start of our professional portfolio. We want a start for where we wi
 
 https://github.com/J05H94/02-Challenge
 https://j05h94.github.io/02-Challenge/
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
